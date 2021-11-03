@@ -1,0 +1,23 @@
+Master Bedroom
+16
+16.25
+Moderate
+Frigidaire
+Portable
+8000
+
+Living Room
+30
+25
+Little
+Whirlpool
+Window Mounted
+18000
+
+Kitchen
+20
+12
+Moderate
+GE
+Window Mounted
+6000
